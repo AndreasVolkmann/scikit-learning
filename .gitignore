@@ -97,4 +97,4 @@ ENV/
 
 .idea
 tensorflow.iml
-
+titanic/data
